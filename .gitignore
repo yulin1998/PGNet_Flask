@@ -3,3 +3,4 @@ imgs/
 __pycache__
 .idea
 results/
+caches/
